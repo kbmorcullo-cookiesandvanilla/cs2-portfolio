@@ -5,6 +5,7 @@
 ## 8 Dahlia
 links for submission:
 
-[Orcullo_KaithlynnBrielle_Distance.py](q1/Orcullo_KaithlynnBrielle_Distance.py)
+[Orcullo_KaithlynnBrielle_Distance.py](q1/Orcullo_KaithlynnBrielle_Distance.py) or
 
-[hello.py](q1/hello.py)
+hello.py or
+(https://github.com/kbmorcullo-cookiesandvanilla/cs2-portfolio/blob/main/hello.py)
