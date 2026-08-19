@@ -8,5 +8,5 @@ links for submission:
 
 [Orcullo_KaithlynnBrielle_Distance.py](q1/Orcullo_KaithlynnBrielle_Distance.py)
 
-[hello.py](hello.py)
+[hello.py](q1/hello.py)
 
