@@ -1,3 +1,5 @@
+#ask for score
+#determine its category
 s=int(input("score:"))
 
 if s>=101:
