@@ -24,4 +24,5 @@ links for submission:
 q2:
 
 [Canteen Purchase Calculator.md](q2/Canteen_Purchase_Calc-ulator.md)
+
 [The Canteen Purchase Calculator.py](q2/The_Canteen_Purchase_Calculator.py)
