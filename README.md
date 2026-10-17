@@ -18,3 +18,9 @@ links for submission:
 [score_checker.py](q1/score_checker.py)
 
 [workshop_validator.py](q1/workshop_validator.py)
+
+----------------------------------------------------------------------------------------
+
+q2:
+
+[Canteen Purchase Calculator.md](q2/Canteen_Purchase_Calculator.md)
