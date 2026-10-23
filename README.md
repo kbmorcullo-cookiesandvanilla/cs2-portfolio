@@ -26,3 +26,7 @@ q2:
 [Canteen Purchase Calculator.md](q2/Canteen_Purchase_Calc-ulator.md)
 
 [The Canteen Purchase Calculator.py](q2/The_Canteen_Purchase_Calculator.py)
+
+[Student Performance Evaluator.py](q2/Student_Performance_Evaluator.py)
+
+[The_Canteen_Purchase_Calculator.md](q2/Student_Performance_Evaluator.md)
