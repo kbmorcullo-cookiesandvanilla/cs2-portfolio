@@ -29,4 +29,4 @@ q2:
 
 [Student Performance Evaluator.py](q2/Student_Performance_Evaluator.py)
 
-[The_Canteen_Purchase_Calculator.md](q2/Student_Performance_Evaluator.md)
+[Student Performance Evaluator.md](q2/Student_Performance_Evaluator.md)
