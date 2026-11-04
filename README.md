@@ -30,3 +30,5 @@ q2:
 [Student Performance Evaluator.py](q2/Student_Performance_Evaluator.py)
 
 [Student Performance Evaluator.md](q2/Student_Performance_Evaluator.md)
+
+[Activity](q2/Activity)
