@@ -1,0 +1,33 @@
+day1 = int(input("Enter total volunteer hours: "))
+day2 = int(input("Amount of hours studied in this day 2: "))
+day3 = int(input("Amount of hours studied in this day 3: "))
+quiz_score = int(input("Enter quiz score: "))
+completed_tasks = int(input("Enter the amount of completed tasks: "))
+
+def calculate_total_hours(day1, day2, day3):
+  return day1 + day2 + day3
+  
+def get_participation_level(total_hours):
+  if total_hours >= 8:
+        return "Highly active"
+  elif 8 > total_hours >= 5:
+        return "Active"
+  else:
+        return "Needs Improvement"
+
+def is_certificate_eligible(total_hours, completed_tasks): 
+    if total_hours >= 8 and completed_tasks == 3: 
+        return True 
+    else: 
+        return False 
+
+total_hours = calculate_total_hours(day1, day2, day3)
+participation_level = get_participation_level(total_hours)  
+eligibility = is_certificate_eligible(quiz_score, completed_tasks)
+
+print(" ")
+print("--------------------------------------------")
+print("| Total hours of volunteering: ", total_hours)
+print("| Participation level: ", participation_level)
+print("| Eligiblility: ", eligibility)
+print("--------------------------------------------")
