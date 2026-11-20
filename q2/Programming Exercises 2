@@ -1,0 +1,50 @@
+#1
+
+school_items = ["Notebook", "Pen", "Calculator", "Laptop", "Book"]
+print("What's in my schoolbag: ")
+print(school_items [1])
+print(school_items [2])
+print(school_items [3])
+print("-----------")
+print(school_items [0])
+print("-----------")
+print(school_items [4])
+
+print("-----------")
+
+----------------------------------------------
+
+#2
+
+destinations = ["Cebu", "Manila", "Davao", "Baguio", "Palawan"]
+
+print("Displaying Travel Destinations")
+for place in destinations:
+    print(place)
+
+print("---------------------------------------")
+
+print(destinations[1:4])
+
+print("---------------------------------------")
+
+place = input("Where would you like to go? ").strip().lower()
+
+if place == destinations[0].lower():
+    print("Sure, please proceed")
+elif place == destinations[1].lower():
+    print("Sure, please proceed")
+elif place == destinations[2].lower():
+    print("Sure, please proceed")
+elif place == destinations[3].lower():
+    print("Sure, please proceed")
+elif place == destinations[4].lower():
+    print("Sure, please proceed")
+else:
+    print("Im sorry it seems that the destination you wish to head to is not in our system")
+
+destinations[2] = "Iloilo"
+
+print("---------------------------------------")
+print("Here is our updated list:")
+print(destinations)
