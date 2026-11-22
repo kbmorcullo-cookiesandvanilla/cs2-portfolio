@@ -33,5 +33,5 @@ q2:
 
 [Activity](q2/Activity)
 
-[Programming exercises.py] (q2/Programming_exercises.py)
-[Programming exercises pt 2] (q2/Programming_Exercises_2)
+[Programming exercises.py](q2/Programming_exercises.py)
+[Programming exercises pt 2](q2/Programming_Exercises_2)
